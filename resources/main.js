@@ -1,1 +1,1 @@
-document.onload(alert('Hello'));
+document.onload = alert('Hello!');
